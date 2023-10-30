@@ -16,4 +16,5 @@ document.addEventListener("DOMContentLoaded", function () {
             alert("Invalid username or password. Please try again.");
         }
     });
+    
 });
